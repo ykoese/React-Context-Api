@@ -14,3 +14,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### npm install -g json-server
 
 ### TO RUN SERVER json-server --watch api/db.json --port 3004
+
+### learned from UDEMY course
